@@ -1,7 +1,10 @@
 ## Hi there 👋
 
+<div align="center">
+  
 [![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FPoaos&query=stars&suffix=%20stars&logo=Github&label=Github&color=blue)](https://github.com/Poaos)
 
+</div>
 
 - A simple academic homepage about me: https://cv.poaopz.cn/ 
 
