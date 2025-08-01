@@ -1,5 +1,10 @@
 ## Hi there 👋
-A simple academic homepage about me: https://cv.poaopz.cn/ 
+
+[![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FHaofeiMa&query=stars&suffix=%20stars&logo=Github&label=Github&color=blue)](https://github.com/Poaos)
+[![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwakatime.com%2Fshare%2F%40HaofeiMa%2F73835383-9c0c-4e6c-9641-27b248e942c2.json&query=%24.data.grand_total.human_readable_total_including_other_language&logo=wakatime&label=CodeTime&color=blue)](https://github.com/Poaos)
+
+- A simple academic homepage about me: https://cv.poaopz.cn/ 
+
 
 <!--
 **Poaos/Poaos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
